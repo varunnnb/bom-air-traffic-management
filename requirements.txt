@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly
+python-dateutil
+pytz
+matplotlib
+regex
